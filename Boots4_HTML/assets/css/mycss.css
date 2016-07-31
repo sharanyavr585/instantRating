@@ -1,0 +1,21 @@
+.name{
+    font-family: "Franklin Gothic";
+}
+.buttonStyle{
+    width: 100%;
+    color: #ffffff;
+    background-color: #6f5499;
+}
+
+.titleStyle{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 110px !important;
+}
+
+.captionStyle{
+    font-family: 'Montserrat', sans-serif;
+    padding-left: 122px;
+    font-size: 30px;
+    font-weight: 400;
+    color: #4b4b4b;
+}
