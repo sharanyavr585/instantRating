@@ -3,7 +3,11 @@
   <title>PHP Test</title>
  </head>
  <body>
- <?php 
+ <?php
+
+ header("Location: ./Boots4_HTML/index.html")
+
+/*
     error_reporting(E_ERROR | E_PARSE);
     $servername = "localhost";
     $username = "minoura" ;
@@ -88,6 +92,8 @@
    
     }
     $conn->close();
+
+*/
 ?>
  </body>
 </html>
