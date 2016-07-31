@@ -6,8 +6,8 @@
  <?php 
     error_reporting(E_ERROR | E_PARSE);
     $servername = "localhost";
-    $username = "root" ;
-    $password = "root" ;
+    $username = "minoura" ;
+    $password = "minoura" ;
     $dbname = "instantRating";
 	global $servername, $username , $password , $dbname;
 	

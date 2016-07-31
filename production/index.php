@@ -149,7 +149,7 @@
         }
             $ratingsArray=array();
             session_start();
-            $con=mysqli_connect("localhost","root","root","instantRating");
+            $con=mysqli_connect("localhost","minoura","minoura","instantRating");
             // Check connection
       
             if (mysqli_connect_errno())
