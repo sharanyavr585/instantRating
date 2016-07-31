@@ -3,9 +3,8 @@
   <title>PHP Test</title>
  </head>
  <body>
+ <script type="application/javascript">window.location.replace("http://instantrating.co/Boots4_HTML/index.html");</script>
  <?php
-
- header("Location: ./Boots4_HTML/index.html")
 
 /*
     error_reporting(E_ERROR | E_PARSE);
